@@ -1,6 +1,6 @@
 # ✂️Cut-Cross-Entropy-Pytorch
 
-It’s Pytorch-version Cut-Cross-Entropy([CCE](!https://arxiv.org/abs/2411.09009)) implementation，
+It’s Pytorch-version Cut-Cross-Entropy([CCE](!https://arxiv.org/abs/2411.09009)) implementation: 
 
 1. GEMM
 2. LSE-style CCE Forward
